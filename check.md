@@ -15,7 +15,7 @@ Activity type that the 30 volunteers who performed the activity.
 
 Its has 6 levels:
 
-1. WALKING
+1. Whatsup
 
 2. WALKING_UPSTAIRS
 
